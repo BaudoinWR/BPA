@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BattlePetsAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="petName">Wolgar</string>
+    <string name="button_start">Start Game</string>
+    <string name="title_activity_pet_selection">Pet Selection</string>
+    <string name="title_activity_ability_selection">Ability Selection</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="switch_pet">Switch Pet</string>
+    
+</resources>
